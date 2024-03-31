@@ -1,0 +1,8 @@
+@UTF8
+@Begin
+@Languages:	rus
+@Participants:	MOT Mother, CHI Target_Child
+@ID:	rus|change_corpus_later|MOT||female|||Mother|||
+@ID:	rus|change_corpus_later|CHI||female|||Target_Child|||
+@Media:	example, video
+@Date:	01-JAN-2000
